@@ -1,4 +1,4 @@
-# dbcv
+# DBCV
 Density-Based Clustering Validation
 
 This is the source code employed to compute DBCV (Density-Based Clustering Validation) in our following paper:
