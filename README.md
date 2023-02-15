@@ -9,4 +9,6 @@ You can read the paper here: https://epubs.siam.org/doi/10.1137/1.9781611973440.
 
 The Matlab source code from this repository is from Davoud Moulavi and Pablo A. Jaskowiak.
 
-You can also find an implementation of DBCV in the R Package [clusterConfusion](https://github.com/pajaskowiak/clusterConfusion)
+You can also find an implementation of DBCV in the R Package [clusterConfusion](https://github.com/pajaskowiak/clusterConfusion).
+
+If you find any bugs or problems, please, get in touch.
