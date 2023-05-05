@@ -63,4 +63,4 @@ This prototype was developed for research purposes only. It was *by no means* im
 
 ## Contact
 
-If you find any bugs or problems, please, get in touch. You can reach me [here](https://andretta.paginas.ufsc.br/).
+If you find any bugs or problems, please, get in touch. You can reach me [here](https://pajaskowiak.github.io/).
